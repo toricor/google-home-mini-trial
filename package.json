@@ -1,0 +1,11 @@
+{
+  "name": "y",
+  "version": "0.0.1",
+  "description": "trial",
+  "main": "main.js",
+  "author": "toricor",
+  "license": "MIT",
+  "dependencies": {
+    "google-home-notifier": "^1.2.0"
+  }
+}
